@@ -11,9 +11,9 @@ Screenshot taken on 10/7/21
 ![Countdown](images/2030.JPG)
 
   
-## Technolgies and Frameworks Used
+## Technologies and Frameworks Used
 
-- Boostrap 5.0.2 
+- Bootstrap 5.0.2 
 - HTML 
 - CSS
 - VanillaJS 
