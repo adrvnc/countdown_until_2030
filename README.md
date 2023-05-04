@@ -1,8 +1,7 @@
 
 # Countdown Until 2030
 
-From the current date, this application will calculate how long it will take to reach January 1st, 2030. 
-The units of time are calculated by hours, days, weeks, months, and years. 
+An interactive project that allows users to track the time left until 2030, including how many weeks, months, and years are left.
 
 
 ## Screenshot
